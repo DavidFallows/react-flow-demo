@@ -26,21 +26,13 @@ const Home: NextPage = () => {
           <main className="mt-10 mx-auto max-w-7xl px-4 sm:mt-12 sm:px-6 md:mt-16 lg:mt-20 lg:px-8 xl:mt-28">
             <div className="sm:text-center lg:text-left">
               <h1 className="text-4xl tracking-tight font-bold text-gray-900 sm:text-5xl sm:tracking-tight md:text-6xl md:tracking-tight">
-                <span className="block xl:inline">React Flow</span>{' '}
+                <span className="block xl:inline">Atlas Tech Demo</span>{' '}
                 <span className="block text-[#38B5AD] xl:inline">
-                  tkcel Tutorial
+                  Workflow
                 </span>
               </h1>
               <p className="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
-                このレポジトリは「React
-                Flow」のサンプルページです。記事については
-                <a
-                  href="https://zenn.dev/tkcel/articles/637837eee794f7"
-                  className="text-[#38B5AD]"
-                >
-                  こちら
-                </a>
-                を参照ください。
+                Have fun!
               </p>
               <div className="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
                 <button
@@ -48,7 +40,7 @@ const Home: NextPage = () => {
                   type="button"
                   className="text-white bg-gradient-to-br from-green-400 to-blue-600 hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-green-200 dark:focus:ring-green-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2"
                 >
-                  サンプルエディタに移動
+                  JGS React Flow Demo
                 </button>
               </div>
             </div>

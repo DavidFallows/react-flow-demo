@@ -13,8 +13,8 @@ export const EditorSidePanel = ({ settings, node }: EditorSidePanelProps) => {
         className="rounded-t-2xl h-4"
         style={{ backgroundColor: node.data.color }}
       />
-      <p>{node.id}</p>
-      <p>{node.data.name}</p>
+      <p className="p-2">{node.id}</p>
+      <p className="p-2">{node.data.name}</p>
     </div>
   )
 }
