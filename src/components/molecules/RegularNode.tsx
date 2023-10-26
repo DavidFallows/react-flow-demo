@@ -27,7 +27,7 @@ export const RegularNode = ({ data, selected }: RegularNodeProps) => {
           <div className="flex justify-start self-center w-32 h-auto text-xs font-semibold text-cyan-900">
               {data.name}
             </div>
-          <div className="h-4 w-4 bg-no-repeat bg-bottom fill-cyan-900" style={{ backgroundImage: "url('calculation.svg')", bottom: "-10px" }}>
+          <div className="h-4 w-4 bg-no-repeat bg-bottom bg-contain fill-cyan-900" style={{ backgroundImage: "url('calculation.svg')", bottom: "-10px" }}>
             
            
 

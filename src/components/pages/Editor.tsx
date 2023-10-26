@@ -113,11 +113,8 @@ const initialEdges: Edge[] = [
       color: '#90C783',
     },
     label: 'Context',
-    data: {
-      startLabel: 'start edge label',
-      endLabel: 'end edge label',
-    },
     type: 'smoothstep',
+    labelStyle: { fill: '#90C783', fontWeight: 700 },
     style: {
       strokeWidth: 2,
       stroke: '#90C783',

@@ -33,3 +33,6 @@ yarn-error.log*
 
 # typescript
 *.tsbuildinfo
+featurefilter.svg
+calculation.svg
+retagging.svg
