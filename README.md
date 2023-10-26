@@ -13,9 +13,3 @@ yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-## 使用している主要技術
-
-- Next.js
-- tailwindcss
-- react-flow
